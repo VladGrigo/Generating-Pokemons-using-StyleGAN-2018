@@ -1,0 +1,2 @@
+network-snapshot-000140        time 26m 15s      fid50k 331.4630  
+network-snapshot-001283        time 14m 04s      fid50k 293.3653  

@@ -1,0 +1,1 @@
+{'host_name': 'localhost', 'start_time': '2021-09-06 21:50:10.636768', 'task_name': 'root-00002-sgan-/content/stylegan/datasets/custom-dataset-1gpu'}
